@@ -65,7 +65,7 @@ Resetting selected puzzles or difficulty groups deletes their progress and stati
 
 To remove all local app data, use Android Settings → Apps → k-star → Storage → Clear storage or Clear data. The wording varies by device. Android may restore data from a separate backup later, so check your device and Google backup controls as well. The developer cannot remotely view or erase progress stored only on your device.
 
-Support correspondence is retained for as long as needed to handle your enquiry and related follow-up, or meet applicable legal obligations. You can request deletion using the privacy contact.
+Support correspondence is retained for as long as needed to handle your enquiry and related follow-up, or meet applicable legal obligations.
 
 Resetting puzzles or clearing local data does not delete Google’s purchase records, backups or information already received by other providers. Google and other providers retain information under their own policies and settings. Use their controls for information they hold independently.
 
