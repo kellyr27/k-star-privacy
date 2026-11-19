@@ -5,7 +5,7 @@ title: k-star privacy policy
 
 # k-star privacy policy
 
-Updated 15 October 2026.
+Updated 19 November 2026.
 
 ## Privacy contact
 
@@ -15,7 +15,9 @@ For privacy questions, requests or complaints, email the developer of k-star at 
 
 This policy covers the k-star Android puzzle app, including development and preview builds. The developer of k-star is responsible for the information they handle through the app and support correspondence. You can play without creating an account.
 
-Your puzzle progress and settings stay on your device. Advertising, purchases and Android diagnostics involve the providers described below. Internal builds may use Google test ads, which still contact Google’s services.
+k-star is intended for players aged 13 and over. The app does not ask for your age or date of birth.
+
+Your puzzle progress and settings are stored on your device. Depending on your Android and Google account settings, that data may be backed up or transferred to another device. Advertising, purchases and Android diagnostics involve the providers described below. Internal builds may use Google test ads, which still contact Google’s services.
 
 ## Your puzzles and settings
 
@@ -29,9 +31,11 @@ When advertising is enabled, the free version uses Google AdMob for banners on p
 
 Google and its advertising partners may process your IP address, approximate location inferred from IP, Android advertising ID, app set ID and other device or account identifiers, app launches, taps, ad views and diagnostic information. These are used to deliver and personalise ads where permitted, measure usage and ad performance, and prevent fraud. App set ID is used for non-advertising purposes such as fraud prevention. This advertising measurement is separate from your locally stored puzzle history. The information used depends on your device, location, SDK configuration and privacy choices.
 
-In builds using the developer’s AdMob configuration, Google’s consent service manages applicable regional choices. Settings → Privacy options lets you revisit them when available. Internal builds using Google’s demo ad IDs may not show a consent form. You can also reset or delete your advertising ID in Android settings. Non-personalised ads can still involve data processing for delivery, measurement and fraud prevention.
+In builds using the developer’s AdMob configuration, Google’s consent service manages applicable regional choices. Where available, open Settings → Privacy options to change your advertising choices or withdraw consent. Depending on your region and choices, Google may still show limited ads. If your choices fail to update, you can keep playing. The app pauses new ad requests for the rest of that session unless you retry successfully.
 
-Premium stops future in-app ads. It does not delete information already received by an advertising provider or disable other services described in this policy.
+Internal builds using Google’s demo ad IDs may not show a consent form. You can also reset or delete your advertising ID in Android settings. Non-personalised ads can still involve data processing for delivery, measurement and fraud prevention.
+
+Premium stops future in-app ads. After you buy Premium, Google’s consent service may still check your privacy choices and let you update them through Settings → Privacy options when available. Buying Premium does not delete information already received by an advertising provider or disable other services described in this policy.
 
 ## Purchases
 
@@ -43,7 +47,7 @@ Purchase tokens are not saved in the app’s database or sent to a developer-ope
 
 When you allow your Android device to share usage and diagnostics information with Google, Android and Google Play may collect crash, app-not-responding (ANR) and other app-quality information. The developer uses available Android vitals reports in Google Play Console to investigate faults and improve stability. Availability depends on your device, diagnostic-sharing settings and installation through Google Play.
 
-You control this sharing through your device’s Usage & diagnostics settings; wording and availability vary by device. Google handles this information under its own policies. These settings are separate from the advertising choices described above.
+You control this sharing through your device’s Usage & diagnostics settings. Wording and availability vary by device. Google handles this information under its own policies. These settings are separate from the advertising choices described above.
 
 The app includes no additional crash-reporting SDK and does not send custom crash reports or puzzle history to a developer-operated service. It does not enable screen recording or gameplay analytics.
 
@@ -55,9 +59,11 @@ Share this app opens your device’s sharing options with the app name and store
 
 ## Keeping and deleting information
 
-Local puzzle progress and statistics remain until you reset them or clear the app’s data. Resetting selected puzzles or difficulty groups deletes their progress and statistics. Settings → Reset all puzzles deletes all puzzle progress and statistics, including retained completion records, while keeping preferences, Premium status, puzzle-start records and ad-eligibility counters.
+Classic and themed puzzle progress and statistics are kept until you reset them or clear the app’s data. For Daily puzzles, k-star keeps only the current day’s board. It also saves the dates you complete Daily puzzles to calculate your streak and total solved.
 
-To remove all local app data, use Android Settings → Apps → k-star → Storage → Clear storage or Clear data. The wording varies by device. Backups are separate: Android may restore backed-up data later, so check your device and Google backup controls as well. The developer cannot remotely view or erase progress stored only on your device.
+Resetting selected puzzles or difficulty groups deletes their progress and statistics. Settings → Reset all puzzles deletes all puzzle progress and statistics, including Daily completion dates and other retained completion records, while keeping preferences, Premium status, puzzle-start records and ad-eligibility counters.
+
+To remove all local app data, use Android Settings → Apps → k-star → Storage → Clear storage or Clear data. The wording varies by device. Android may restore data from a separate backup later, so check your device and Google backup controls as well. The developer cannot remotely view or erase progress stored only on your device.
 
 Support correspondence is retained for as long as needed to handle your enquiry and related follow-up, or meet applicable legal obligations. You can request deletion using the privacy contact.
 
